@@ -23,3 +23,11 @@ Install the necessary packages, such as pytest:
 ```bash
 pip install pytest
 ```
+
+## TODOs
+
+- [ ] Create a virtual environment
+- [ ] Activate the virtual environment
+- [ ] Install pytest
+- Run ```test.py``` to ensure everything is working correctly
+- Complete the practice problems in ```practice.py```
