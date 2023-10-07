@@ -29,5 +29,5 @@ pip install pytest
 - [ ] Create a virtual environment
 - [ ] Activate the virtual environment
 - [ ] Install pytest
-- Run ```test.py``` to ensure everything is working correctly
-- Complete the practice problems in ```practice.py```
+- [ ] Run ```test.py``` to ensure everything is working correctly
+- [ ] Complete the practice problems in ```practice.py```
